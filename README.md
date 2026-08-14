@@ -27,6 +27,7 @@ jupyter>=1.0
 ```
 
 # Repository structure
+```text
 ├── data
 │   ├── catalog.csv
 │   └── own_elasticities.csv
@@ -35,3 +36,4 @@ jupyter>=1.0
 │   ├── EDA
 │   └── model
 └── README.md
+```
