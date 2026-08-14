@@ -1,7 +1,8 @@
-# price-elasticity-pymc
+# Overview
 use PyMC to estimate price elasticities with synthetic data
 
 https://www.pymc.io/welcome.html
+
 
 # Notebook
 price_elasticity_pymc.ipynb
@@ -16,3 +17,5 @@ arviz>=0.16
 pymc>=5.10
 jupyter>=1.0
 ```
+
+# Repository structure
