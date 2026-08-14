@@ -5,6 +5,8 @@ https://www.pymc.io/welcome.html
 
 # Methods
 * Log-log
+* Bayesian therom
+* Random number generator
 * No pooling PyMC
 * Partial pooling PyMC (Hierarchical price elasticity)
 * Hierarchical price elasticity + cross-price elasticity
