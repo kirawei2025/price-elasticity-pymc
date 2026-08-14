@@ -1,5 +1,6 @@
 # price-elasticity-pymc
 use PyMC to estimate price elasticities with synthetic data
+
 https://www.pymc.io/welcome.html
 
 # Notebook
