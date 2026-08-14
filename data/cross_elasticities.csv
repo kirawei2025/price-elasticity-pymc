@@ -1,0 +1,19 @@
+,Hyundai (Florida),Toyota (Florida),Hyundai (NewYork),Toyota (NewYork),Honda (Florida),Honda (NewYork),Mazda (Florida),Chevrolet (Florida),Mazda (NewYork),Chevrolet (NewYork),Volkswagen (Florida),Volkswagen (NewYork),Jeep (Florida),Porsche (Florida),Jeep (NewYork),Porsche (NewYork),Tesla (Florida),Tesla (NewYork)
+Honda (Florida),0.34772105084690247,0.3331968704607494,,,,,,,,,,,,,,,,
+Toyota (Florida),0.35437377193458025,,,,0.35233371618281456,,,,,,,,,,,,,
+Hyundai (Florida),,0.3608630853661039,,,0.3648650834240688,,,,,,,,,,,,,
+Honda (NewYork),,,0.3335103756861752,0.363011855756494,,,,,,,,,,,,,,
+Toyota (NewYork),,,0.35447191097549363,,,0.3674285755589638,,,,,,,,,,,,
+Hyundai (NewYork),,,,0.3546432264613344,,0.3366898058542261,,,,,,,,,,,,
+Volkswagen (Florida),,,,,,,0.2407348137843137,0.2040547441693335,,,,,,,,,,
+Chevrolet (Florida),,,,,,,0.2896964786740638,,,,0.18349146492639898,,,,,,,
+Mazda (Florida),,,,,,,,0.18081972701856194,,,0.11257065080866002,,,,,,,
+Volkswagen (NewYork),,,,,,,,,0.21734716392139905,0.23787729355031242,,,,,,,,
+Chevrolet (NewYork),,,,,,,,,0.25809670127548884,,,0.14805013305840542,,,,,,
+Mazda (NewYork),,,,,,,,,,0.1616673291053995,,0.1717776407424323,,,,,,
+Tesla (Florida),,,,,,,,,,,,,0.0,0.0,,,,
+Porsche (Florida),,,,,,,,,,,,,0.0,,,,0.06863807050057232,
+Jeep (Florida),,,,,,,,,,,,,,0.06346777881599402,,,0.0568981263834284,
+Tesla (NewYork),,,,,,,,,,,,,,,0.013020245208400448,0.046897786508742254,,
+Porsche (NewYork),,,,,,,,,,,,,,,0.0,,,0.0
+Jeep (NewYork),,,,,,,,,,,,,,,,0.0,,0.0

@@ -28,12 +28,16 @@ jupyter>=1.0
 
 # Repository structure
 ```text
+├── code.ipynb
 ├── data
 │   ├── catalog.csv
-│   └── own_elasticities.csv
+│   ├── cross_elasticities.csv
+│   ├── own_elasticities.csv
+│   └── synthetic_dataset.csv
 ├── data_generation.ipynb
 ├── images
 │   ├── EDA
 │   └── model
-└── README.md
+├── README.md
+└── requirements.txt
 ```
