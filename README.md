@@ -10,6 +10,7 @@ https://www.pymc.io/welcome.html
 * No pooling PyMC
 * Partial pooling PyMC (Hierarchical price elasticity)
 * Hierarchical price elasticity + cross-price elasticity
+* Plots
 
 # Notebook
 price_elasticity_pymc.ipynb
