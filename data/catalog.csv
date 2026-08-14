@@ -1,0 +1,4 @@
+,brands,elasticity_mean,elasticity_std,cross_price_mean,cross_price_std
+Sedan,"['Honda', 'Hyundai', 'Toyota']",-0.45,0.1,0.35,0.02
+SmallSUV,"['Volkswagen', 'Mazda', 'Chevrolet']",-1.0,0.15,0.2,0.06
+LargeSUV,"['Tesla', 'Jeep', 'Porsche']",-2.0,0.3,0.0,0.08

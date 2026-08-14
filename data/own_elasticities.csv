@@ -1,0 +1,19 @@
+,category,state,product,elasticity,intercept
+Honda (Floria),Sedan,Floria,Honda,-0.4195282920245569,6.316635319256157
+Honda (NewYork),Sedan,NewYork,Honda,-0.5249548804193542,7.092104087178091
+Hyundai (Floria),Sedan,Floria,Hyundai,-0.6451035188653836,7.926867054910268
+Hyundai (NewYork),Sedan,NewYork,Hyundai,-0.5872159596832714,7.358192915830862
+Toyota (Floria),Sedan,Floria,Toyota,-0.4516801157504289,6.351157813686702
+Toyota (NewYork),Sedan,NewYork,Toyota,-0.5120602025137172,7.780294966545806
+Volkswagen (Floria),SmallSUV,Floria,Volkswagen,-0.9900953953658176,7.46828483981249
+Volkswagen (NewYork),SmallSUV,NewYork,Volkswagen,-1.079873598662193,5.681716165354331
+Mazda (Floria),SmallSUV,Floria,Mazda,-0.9446873823876252,5.191451768312526
+Mazda (NewYork),SmallSUV,NewYork,Mazda,-1.018232454803909,6.894993197366195
+Chevrolet (Floria),SmallSUV,Floria,Chevrolet,-1.0277293545317892,6.063577904389605
+Chevrolet (NewYork),SmallSUV,NewYork,Chevrolet,-0.9666187991988955,7.679363363966593
+Tesla (Floria),LargeSUV,Floria,Tesla,-2.1284983466489322,5.583916123555903
+Tesla (NewYork),LargeSUV,NewYork,Tesla,-1.9903072443339953,5.131411297361686
+Jeep (Floria),LargeSUV,Floria,Jeep,-1.8761802165212034,7.049146859727363
+Jeep (NewYork),LargeSUV,NewYork,Jeep,-1.5075057197388615,7.90252919730263
+Porsche (Floria),LargeSUV,Floria,Porsche,-2.153672818721461,6.111379118104606
+Porsche (NewYork),LargeSUV,NewYork,Porsche,-1.9652061732273511,5.568414077252857

@@ -13,7 +13,7 @@ https://www.pymc.io/welcome.html
 * Plots
 
 # Notebook
-price_elasticity_pymc.ipynb
+code.ipynb
 
 # Requirement
 
@@ -27,3 +27,11 @@ jupyter>=1.0
 ```
 
 # Repository structure
+├── data
+│   ├── catalog.csv
+│   └── own_elasticities.csv
+├── data_generation.ipynb
+├── images
+│   ├── EDA
+│   └── model
+└── README.md
