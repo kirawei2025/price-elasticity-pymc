@@ -3,6 +3,11 @@ use PyMC to estimate price elasticities with synthetic data
 
 https://www.pymc.io/welcome.html
 
+# Methods
+* Log-log
+* No pooling PyMC
+* Partial pooling PyMC (Hierarchical price elasticity)
+* Hierarchical price elasticity + cross-price elasticity
 
 # Notebook
 price_elasticity_pymc.ipynb
