@@ -1,3 +1,5 @@
+![](images/cover_image.png)
+
 # Overview
 use PyMC to estimate price elasticities with synthetic data
 
@@ -31,13 +33,16 @@ seaborn>=0.13
 ```text
 ├── code.ipynb
 ├── data
-│   ├── catalog.csv
 │   ├── cross_elasticities.csv
 │   ├── own_elasticities.csv
+│   ├── product_elasticities_df.csv
+│   ├── product_elasticities_long_df.csv
 │   └── synthetic_dataset.csv
 ├── data_generation.ipynb
 ├── images
 │   ├── EDA
+│   │   ├── elasticity_crosselasticity.png
+│   │   └── price_vs_quantity.png
 │   └── model
 ├── README.md
 └── requirements.txt
