@@ -26,6 +26,7 @@ matplotlib>=3.7
 arviz>=0.16
 pymc>=5.10
 jupyter>=1.0
+graphviz==0.21
 seaborn>=0.13
 ```
 
